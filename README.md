@@ -9,10 +9,13 @@ Repository to track the recent progress in the topics related to joint multi-vie
 
 ## Multi-View Segmentation
 * Multi-View Deep Learning for Consistent Semantic Mapping with RGB-D Cameras [paper](https://arxiv.org/pdf/1703.08866.pdf)
+* 3DMV: Joint 3D-Multi-View Prediction for 3D Semantic Scene Segmentation [paper](https://arxiv.org/abs/1803.10409)
 
 ## Co-Segmentation 
+* Semantic Aware Attention Based Deep Object Co-segmentation [paper](https://arxiv.org/abs/1810.06859)
 * Adaptive Graph Convolutional Network with Attention Graph Clustering for Co-saliency Detection [paper](https://128.84.21.199/pdf/2003.06167.pdf)
 * Multi-View Saliency-Guided Clustering for Image Cosegmentation [paper](https://www.researchgate.net/publication/332960969_Multi-View_Saliency-Guided_Clustering_for_Image_Cosegmentation)
+
 ## Video Segmentation
 * See More, Know More: Unsupervised Video Object Segmentation with Co-Attention Siamese Networks [paper](https://arxiv.org/abs/2001.06810)
 
