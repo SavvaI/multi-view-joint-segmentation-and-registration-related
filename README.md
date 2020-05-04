@@ -8,6 +8,7 @@ Repository to track the recent progress in the topics related to joint multi-vie
 * Grapy-ML: Graph Pyramid Mutual Learning for Cross-dataset Human Parsing [paper](https://arxiv.org/abs/1911.12053)|[code](https://github.com/Charleshhy/Grapy-ML)
 
 ## Multi-View Segmentation
+* Multi-View Object Segmentation in Space and Time **ECCV 2013** [paper](http://openaccess.thecvf.com/content_iccv_2013/papers/Djelouah_Multi-view_Object_Segmentation_2013_ICCV_paper.pdf)
 * Multi-View Deep Learning for Consistent Semantic Mapping with RGB-D Cameras [paper](https://arxiv.org/pdf/1703.08866.pdf)
 * 3DMV: Joint 3D-Multi-View Prediction for 3D Semantic Scene Segmentation [paper](https://arxiv.org/abs/1803.10409)
 
