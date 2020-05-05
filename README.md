@@ -5,7 +5,7 @@ Repository to track the recent progress in the topics related to joint multi-vie
 * Background Matting: The World is Your Green Screen [paper](https://arxiv.org/pdf/2004.00626.pdf)
 
 ## Single-View Segmentation 
-* Grapy-ML: Graph Pyramid Mutual Learning for Cross-dataset Human Parsing [paper](https://arxiv.org/abs/1911.12053)|[code](https://github.com/Charleshhy/Grapy-ML)
+* Grapy-ML: Graph Pyramid Mutual Learning for Cross-dataset Human Parsing ***AAAI 2020*** [paper](https://arxiv.org/abs/1911.12053)|[code](https://github.com/Charleshhy/Grapy-ML)
 * U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection ***CVPR 2020*** [code](https://github.com/NathanUA/U-2-Net)
 
 ## Multi-View Segmentation
