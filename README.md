@@ -26,7 +26,7 @@ Repository to track the recent progress in the topics related to joint multi-vie
 
 ## Multi-View Stereo
 * Cascade Cost Volume for High-Resolution Multi-View Stereo and Stereo Matching [paper](https://arxiv.org/pdf/1912.06378.pdf)
-* Consistent Video Depth Estimation [paper] ***SIGGRAPH 2020*** (https://arxiv.org/abs/2004.15021)|[video](youtu.be/5Tia2oblJAg)
+* Consistent Video Depth Estimation  ***SIGGRAPH 2020*** [paper](https://arxiv.org/abs/2004.15021)|[video](https://youtu.be/5Tia2oblJAg)
 * Unsupervised Learning of Depth and Ego-Motion from Monocular Video Using 3D Geometric Constraints [paper](https://arxiv.org/abs/1802.05522)
 
 ## Stereo Matching
