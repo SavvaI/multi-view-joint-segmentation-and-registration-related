@@ -34,4 +34,4 @@ Repository to track the recent progress in the topics related to joint multi-vie
 ### Papers
 * FADNet: A Fast and Accurate Network for Disparity Estimation ***ICRA 2020*** [paper](https://arxiv.org/abs/2003.10758v1)|[code](https://github.com/HKBU-HPML/FADNet)
 ### Tutorials
-Depth from Stereo [link](https://github.com/IntelRealSense/librealsense/blob/master/doc/depth-from-stereo.md)
+* Depth from Stereo [link](https://github.com/IntelRealSense/librealsense/blob/master/doc/depth-from-stereo.md)
