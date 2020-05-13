@@ -31,4 +31,7 @@ Repository to track the recent progress in the topics related to joint multi-vie
 * Unsupervised Learning of Depth and Ego-Motion from Monocular Video Using 3D Geometric Constraints [paper](https://arxiv.org/abs/1802.05522)
 
 ## Stereo Matching
+### Papers
 * FADNet: A Fast and Accurate Network for Disparity Estimation ***ICRA 2020*** [paper](https://arxiv.org/abs/2003.10758v1)|[code](https://github.com/HKBU-HPML/FADNet)
+### Tutorials
+Depth from Stereo [link](https://github.com/IntelRealSense/librealsense/blob/master/doc/depth-from-stereo.md)
