@@ -32,6 +32,8 @@ Repository to track the recent progress in the topics related to joint multi-vie
 
 ## Stereo Matching
 ### Papers
+* Stereo Processing by Semi-Global Matching
+and Mutual Information ***2008*** [paper](https://core.ac.uk/download/pdf/11134866.pdf)
 * FADNet: A Fast and Accurate Network for Disparity Estimation ***ICRA 2020*** [paper](https://arxiv.org/abs/2003.10758v1)|[code](https://github.com/HKBU-HPML/FADNet)
 ### Tutorials
 * Depth from Stereo [link](https://github.com/IntelRealSense/librealsense/blob/master/doc/depth-from-stereo.md)
