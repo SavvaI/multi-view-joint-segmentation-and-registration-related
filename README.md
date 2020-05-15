@@ -8,6 +8,10 @@ Repository to track the recent progress in the topics related to joint multi-vie
 * Grapy-ML: Graph Pyramid Mutual Learning for Cross-dataset Human Parsing ***AAAI 2020*** [paper](https://arxiv.org/abs/1911.12053)|[code](https://github.com/Charleshhy/Grapy-ML)
 * U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection ***CVPR 2020*** [code](https://github.com/NathanUA/U-2-Net)
 
+## Interactive Segmentation
+* Interactive Graph Cuts for Optimal Boundary & Region Segmentation of Objects in N-D Image ***ICCV 2001*** [paper](https://www.csd.uwo.ca/faculty/yuri/Papers/iccv01.pdf)
+* f-BRS: Rethinking Backpropagating Refinement for Interactive Segmentation ***CVPR 2020*** [paper](https://www.csd.uwo.ca/faculty/yuri/Papers/iccv01.pdf)
+
 ## Multi-View Segmentation
 * Multi-View Object Segmentation in Space and Time ***ICCV 2013*** [paper](http://openaccess.thecvf.com/content_iccv_2013/papers/Djelouah_Multi-view_Object_Segmentation_2013_ICCV_paper.pdf)
 * Multi-View Object Segmentation ***2015*** [paper](https://www.researchgate.net/publication/278379214_Multi-view_Object_Segmentation)
