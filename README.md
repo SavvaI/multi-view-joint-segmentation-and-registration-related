@@ -34,6 +34,7 @@ Repository to track the recent progress in the topics related to joint multi-vie
 * FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks [paper](https://arxiv.org/abs/1612.01925)
 
 ## Multi-View Stereo
+* MVSNet: Depth Inference for Unstructured Multi-view Stereo ***ECCV 2018*** [paper](https://arxiv.org/abs/1804.02505)
 * Cascade Cost Volume for High-Resolution Multi-View Stereo and Stereo Matching [paper](https://arxiv.org/pdf/1912.06378.pdf)
 * Consistent Video Depth Estimation  ***SIGGRAPH 2020*** [paper](https://arxiv.org/abs/2004.15021)|[video](https://youtu.be/5Tia2oblJAg)
 * Unsupervised Learning of Depth and Ego-Motion from Monocular Video Using 3D Geometric Constraints [paper](https://arxiv.org/abs/1802.05522)
