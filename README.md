@@ -1,8 +1,9 @@
 # Multi View Joint Segmentation and Registration
 Repository to track the recent progress in the topics related to joint multi-view segmentation and registration
 
-## Synthetic Background
+## Synthetic Background/Matting
 * Background Matting: The World is Your Green Screen [paper](https://arxiv.org/pdf/2004.00626.pdf)
+* Real-time deep hair matting on mobile devices [paper](https://arxiv.org/pdf/1712.07168.pdf)
 
 ## Single-View Segmentation 
 * Grapy-ML: Graph Pyramid Mutual Learning for Cross-dataset Human Parsing ***AAAI 2020*** [paper](https://arxiv.org/abs/1911.12053)|[code](https://github.com/Charleshhy/Grapy-ML)
