@@ -29,6 +29,7 @@ Repository to track the recent progress in the topics related to joint multi-vie
 * Multi-View Saliency-Guided Clustering for Image Cosegmentation [paper](https://www.researchgate.net/publication/332960969_Multi-View_Saliency-Guided_Clustering_for_Image_Cosegmentation)
 
 ## Video Segmentation
+* FusionSeg: Learning to combine motion and appearance for fully automatic segmentation of generic objects in videos ***2017*** [paper](https://arxiv.org/pdf/1701.05384.pdf)
 * See More, Know More: Unsupervised Video Object Segmentation with Co-Attention Siamese Networks [paper](https://arxiv.org/abs/2001.06810)
 
 ## Optical Flow
